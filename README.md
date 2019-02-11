@@ -5,7 +5,7 @@ A bare bones [Create React App ](https://github.com/facebookincubator/create-rea
 ## Setup
 
 ```bash
-git clone https://github.com/gcavancer/cra-redux-saga.git
+git clone https://github.com/yash2code/cra-redux-saga-ts.git
 cd cra-redux-saga
 npm install or yarn install
 ```
